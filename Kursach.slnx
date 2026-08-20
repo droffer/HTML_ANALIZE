@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Kursach/Kursach.vcxproj" Id="b65ebfa7-07d6-47f0-bf48-82e3c461b5ae" />
+</Solution>
